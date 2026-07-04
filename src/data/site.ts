@@ -1,5 +1,5 @@
 export const site = {
-  name: "Your Name（此处替换为真实姓名）",
+  name: "严乐",
   nameEn: "Visual Communication Designer",
   title: "视觉传达设计｜品牌视觉｜包装设计｜文创 IP｜项目执行",
   intro:
@@ -19,8 +19,8 @@ export const site = {
     "Project Execution",
     "AI-assisted Workflow",
   ],
-  email: "yourname@email.com",
-  phone: "+86 xxx xxxx xxxx",
+  email: "2010828054@qq.com",
+  phone: "+86 18001914921",
   wechatQr: "/images/wechat-qr.png",
   socials: [
     { label: "Behance", href: "https://www.behance.net/" },
